@@ -1,0 +1,22 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "name": "t",
+            "cost": "t",
+            "sell": "t",
+            "target_stock": "t",
+            "current_stock": "t"
+        },
+        {
+            "id": 0,
+            "name": "blacktie",
+            "cost": "1",
+            "sell": "6",
+            "target_stock": " 8",
+            "current_stock": "1"
+        }
+    ],
+    "logs": [],
+    "settings": []
+}
